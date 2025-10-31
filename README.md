@@ -1,24 +1,23 @@
 # Global Mental Health and Wellbeing Analysis
 
-![Dashboard](https://github.com/LorenaCamargo/Mental-Health-and-Well-Being/blob/main/Dashboard.png)
 
-## Objective
-This project aims to analyze the relationship between the World Happiness Index and global mental health indicators, exploring how economic and social factors contribute to subjective well-being. Through interactive visualizations, it seeks to present, in an accessible way, the patterns and correlations that emerge between personal satisfaction and mental health conditions around the world which that are often not immediately evident
+<img width="1062" height="150" alt="image" src="https://github.com/user-attachments/assets/893460e1-4991-4b52-a60e-3c828fdac019" />
 
-#### Dataset
-- Sources:  World Happiness Report, Mental State of the World, World Bank
 
-#### Tools & Skills
-- Python (data exploration, data cleaning and initial analysis with Pandas)
-- Tableau (dashboard creation)
+## Background
+This project explores the relationship between global happiness and mental health indices, aiming to understand how different dimensions of human well-being manifest around the world.
 
-## Preparation
-- 
-- 
-- 
-- 
+Using international public data, a project was developed that combines interactive visualizations with data analysis to identify patterns, contrasts, and correlations that are often not immediately evident and that can assist regional and global public policies.
 
-## Key Insights
+This case study is part of the research developed during the Master's degree in Business Analytics, more specifically as part of the Data Visualization course.
+
+## Data Structure
+
+Information about the data and ERD can be found here. 
+
+
+
+## Executive Summary
 - 
 - 
 - 

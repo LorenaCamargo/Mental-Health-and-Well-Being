@@ -1,4 +1,4 @@
-# Global Mental Health and Wellbeing Analysis
+# Happiness and Mental Health: a global analysis of the factors that shape human well-being
 
 
 <img width="1062" height="150" alt="image" src="https://github.com/user-attachments/assets/893460e1-4991-4b52-a60e-3c828fdac019" />

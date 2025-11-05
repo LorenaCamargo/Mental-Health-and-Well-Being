@@ -14,9 +14,9 @@ This case study is part of the research developed during the Master's degree in 
 
 ## Data Structure
 
-Information about the data and ERD can be found here. 
+Information about the data can be found [here](data.md). 
 <br>
-
+<br>
 
 ###
 
@@ -29,6 +29,7 @@ Although per capita income appears as the main structural factor associated with
 
 #### Adaptive well-being stands out in contexts of lower overall happiness 
 Emotional intelligence and resilience are more prevalent in countries with high levels of mental health, even if they have a lower happiness index. This pattern, especially evident in Southeast Asia and Latin America, indicates that emotional balance and a sense of purpose can flourish even in contexts of lower subjective satisfaction.
+<br>
 <br>
 
 ## Insights Deep Dive
@@ -105,6 +106,7 @@ Presents relatively low levels of happiness and mental health, but stands out fo
 **North America**\
 The economic aspect largely predominates over social support, and interpersonal interactions have limited influence on the perception of happiness. This configuration reflects a strongly individualistic culture, where well-being is anchored in financial achievement and personal autonomy, more than in collective relationships.
 
+<br>
 
 ## Recommendations
 
